@@ -3,6 +3,7 @@
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lioarce01&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lioarce01)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
