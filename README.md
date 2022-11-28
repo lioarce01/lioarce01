@@ -12,11 +12,17 @@
 - <p>🎨 My <a href="https://lionelarce-portfolio.vercel.app">Portfolio</a></p>
 - Tech stack that i'm currently working with:
 
+**IDE**: <br/>
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+
 **Frontend:** <br/>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,tailwind,materialui,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,vite,tailwind,materialui,bootstrap,styledcomponents,chakraui)](https://skillicons.dev)
 
 **Backend:** <br/>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma)](https://skillicons.dev)
 
 **Databases:** <br/>
 [![My Skills](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)
+
+**Deploy:** <br/>
+[![My Skills](https://skillicons.dev/icons?i=heroku,vercel)](https://skillicons.dev)
