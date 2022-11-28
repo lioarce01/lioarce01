@@ -12,7 +12,7 @@
 - <p>🎨 My <a href="https://lionelarce-portfolio.vercel.app">Portfolio</a></p>
 - Tech stack that i'm currently working with:
 
-**IDE**: <br/>
+**Main Code Editor**: <br/>
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 **Frontend:** <br/>
