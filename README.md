@@ -63,6 +63,14 @@
 
 <br/>  
 
+## Github Stats  
+  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lioarce01&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lioarce01&theme=radical)](https://git.io/streak-stats) <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lioarce01&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
 
 ## Connect with me  
 <div align="center">
@@ -76,11 +84,3 @@
   
 
 <br/>  
-
-
-## Github Stats  
-  
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lioarce01&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=lioarce01&theme=radical)](https://git.io/streak-stats) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lioarce01&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
