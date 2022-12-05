@@ -15,7 +15,10 @@
 - ❓ Ask me about anything related to MERN/PERN stack and related technologies  
   
 
-- 🔗 My [Portfolio](https://lionelarce-portfolio.vercel.app)  
+- 🔗 My [Portfolio](https://lionelarce-portfolio.vercel.app)
+
+
+- 📧 Do you want to meet me? send me an email at: lioarce01@gmail.com  
   
 
 <br/>  
