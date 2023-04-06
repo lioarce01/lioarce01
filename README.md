@@ -18,7 +18,7 @@
 - 🔗 My [Portfolio](https://lionel-arce-portoflio.vercel.app)
 
 
-- 📧 Do you want to meet me? send me an email at: lioarce01@gmail.com  
+- 📧 Do you want to meet me? send me an email at: lioarce1@gmail.com  
   
 
 <br/>  
