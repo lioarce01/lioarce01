@@ -6,7 +6,7 @@
 ## <div align="center">I'm Lionel, full-stack developer 🚀</div>  
   
 
-### <div align="center">I am a software developer based in Argentina, passionate about programming. I stand out for continuous self-learning, autonomy, responsibility and above all with a great desire to learn new technologies every day and continue developing myself. Currently developing projects as Freelancer for my portfolio.</div>  
+### <div align="center">I am a software developer based in Argentina, specializing in web application development. I focus on continuously improving my skills and learning new practices. Currently, I work on freelance projects, creating effective solutions and contributing to the growth of my portfolio.</div>  
   
 
 - 🔭 I’m currently working as freelance developer to grow up and improve my skills  
