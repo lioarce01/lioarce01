@@ -2,20 +2,19 @@
     <img src="https://i.ibb.co/HdB0kKw/banner-1.png" alt="Banner" style="width: 100%;" />
 </div>  
 
-## <div align="center">Hola, soy Lionel, Full-stack Developer 🚀</div>  
+## <div align="center">Hi, i'm Lionel, Full-stack Developer 🚀</div>  
 
 <div align="center">
-    Soy un desarrollador full-stack de Argentina, especializado en aplicaciones web. Trabajo como freelance para seguir mejorando mis habilidades.
+    I am a full-stack developer from Argentina, specialized in web applications. I work as a freelancer to continue improving my skills.
 </div>  
 
-- 🔭 Actualmente estoy trabajando en proyectos freelance para mejorar mis habilidades y crecer profesionalmente.  
-- ❓ Pregúntame sobre tecnologías como MERN/PERN stack.  
-- 🔗 [Visita mi portafolio](https://lionel-arce-portoflio.vercel.app)  
-- 📧 Contáctame: lioarce1@gmail.com  
+- 🔭 I am currently working on freelance projects to improve my skills and grow professionally.
+- 🔗 [Check my portfolio](https://lionel-arce.vercel.app)  
+- 📧 Contact me: lioarce1@gmail.com  
 
 ---
 
-## Habilidades
+## Skills
 
 <table align="center">
 <tr>
@@ -64,7 +63,7 @@
 
 ---
 
-## Estadísticas de GitHub
+## Github Statistics
 <div align="center">
     <a href="https://github.com/lioarce01">
         <img src="https://github-readme-stats.vercel.app/api?username=lioarce01&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas GitHub" />
@@ -81,7 +80,7 @@
 
 ---
 
-## Conecta Conmigo  
+## Connect with Me 
 <div align="center">
 <a href="https://github.com/lioarce01" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://linkedin.com/in/lionel-arce" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
