@@ -4,7 +4,7 @@
 
 ## <div align="center">Hola, soy Lionel, Full-stack Developer 🚀</div>  
 
-<div align="center">
+<div align="left">
     Soy un desarrollador full-stack de Argentina, especializado en aplicaciones web. Trabajo como freelance para seguir mejorando mis habilidades.
 </div>  
 
