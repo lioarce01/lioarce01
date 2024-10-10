@@ -60,11 +60,23 @@
 
 ---
 
+---
+
+---
+
 ## Estadísticas de GitHub
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=lioarce01&show_icons=true&theme=radical" alt="Estadísticas GitHub" />
-    <img src="https://streak-stats.demolab.com?user=lioarce01&theme=radical" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lioarce01&layout=compact&theme=radical" alt="Top Languages" />
+    <a href="https://github.com/lioarce01">
+        <img src="https://github-readme-stats.vercel.app/api?username=lioarce01&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas GitHub" />
+    </a>
+    <br/>
+    <a href="https://github.com/lioarce01">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=lioarce01&theme=radical" alt="GitHub Streak" />
+    </a>
+    <br/>
+    <a href="https://github.com/lioarce01">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lioarce01&layout=compact&theme=radical" alt="Top Languages" />
+    </a>
 </div>
 
 ---
