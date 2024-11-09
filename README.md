@@ -22,7 +22,7 @@
 ## About Me
 
 - 🔭 I am currently working on freelance projects to improve my skills and grow professionally
-- 🔗 [Check my portfolio](https://lionel-arce.vercel.app)
+- 🔗 Check my [portfolio](https://lionel-arce.vercel.app)
 - 📧 Contact me: lioarce1@gmail.com
 
 ## Tech Stack 💻
