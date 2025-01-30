@@ -1,94 +1,100 @@
 <div align="center">
-  <img src="https://i.ibb.co/HdB0kKw/banner-1.png" alt="Banner" style="width: 100%;" />
+  <img src="https://i.ibb.co/HdB0kKw/banner-1.png" alt="Banner" style="width: 100%; max-width: 1200px;" />
 </div>
 
-# <div align="center">Hi, I'm Lionel, Full-stack Developer 🚀</div>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Lionel+👋;Full-stack+Developer;Cloud+Enthusiast;Clean+Code+Advocate" alt="Typing SVG" />
+  </a>
+</h1>
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/lionel-arce/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://github.com/lioarce01" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/lionel-arce" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="mailto:lioarce1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://lionel-arce.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
+## 🚀 About Me
+
+<p align="center">
+  Software Developer with 2+ years of experience building scalable solutions. Passionate about cloud-native architectures and clean code practices. Focused on delivering efficient systems using modern technologies like Go, Node.js, and AWS services. Currently expanding expertise in distributed systems and DevOps practices.
+</p>
+
+## 🛠️ Tech Stack
+
+### **Frontend Development**
 <div align="center">
-  With 2 years of experience as a Software Developer, I’ve contributed to projects where technical excellence and product impact were top priorities. While I haven’t worked at large-scale companies, I’ve embraced best practices from demanding environments—from implementing scalable architectures (like microservices with Go/Gin and Node.js) to optimizing systems using AWS (RDS, S3, ElastiCache) to improve performance and reduce costs.
-
-My focus has always been on delivering tangible value: whether migrating legacy modules to TypeScript/React for better maintainability, applying design patterns like CQRS, or improving efficiency through Clean Code principles. I’m passionate about working with cutting-edge technologies not just to grow professionally, but to solve complex problems in innovative ways.
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
 
-<br/>
-
-## About Me
-
-- 🔭 I am currently working on freelance projects to improve my skills and grow professionally
-- 🔗 Check my [portfolio](https://lionel-arce.vercel.app)
-- 📧 Contact me: lioarce1@gmail.com
-
-## Tech Stack 💻
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-### Frontend Development
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-<a href="https://getbootstrap.com" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+### **Backend Development**
+<div align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
-</td>
-<td valign="top" width="50%">
 
-### Backend Development
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
-<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>
+### **Databases**
+<div align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </div>
-</td>
-</tr>
-</table>
 
-## GitHub Analytics ⚡
+### **Cloud & DevOps**
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+</div>
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lioarce01&theme=tokyonight"/>
-</div>
-<div align="center">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lioarce01&theme=tokyonight" />
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lioarce01&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lioarce01&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lioarce01&layout=compact&theme=github_dark&hide_border=true&langs_count=6"/>
 </div>
 
-## Let's Connect! 🤝
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lioarce01&theme=github-dark-blue&hide_border=true&background=0D1117&border=38BDF8&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+</div>
+
+## 📫 Let's Connect!
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/lionel-arce/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://github.com/lioarce01" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/lionel-arce" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="mailto:lioarce1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lioarce01&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=lioarce01&style=flat-square&color=38BDF8" alt="Profile Views"/>
 </div>
 
