@@ -14,7 +14,9 @@
 </div>
 
 <div align="center">
-  I am a full-stack developer from Argentina, specialized in web applications. I work as a freelancer to continue improving my skills.
+  With 2 years of experience as a Software Developer, I’ve contributed to projects where technical excellence and product impact were top priorities. While I haven’t worked at large-scale companies, I’ve embraced best practices from demanding environments—from implementing scalable architectures (like microservices with Go/Gin and Node.js) to optimizing systems using AWS (RDS, S3, ElastiCache) to improve performance and reduce costs.
+
+My focus has always been on delivering tangible value: whether migrating legacy modules to TypeScript/React for better maintainability, applying design patterns like CQRS, or improving efficiency through Clean Code principles. I’m passionate about working with cutting-edge technologies not just to grow professionally, but to solve complex problems in innovative ways.
 </div>
 
 <br/>
