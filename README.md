@@ -26,7 +26,7 @@
 ## 🚀 About Me
 
 <p align="center">
-  Software Developer with 1+ years of experience building scalable solutions. Passionate about cloud-native architectures and clean code practices. Focused on delivering efficient systems using modern technologies like Go, Node.js, and AWS services. Currently expanding expertise in distributed systems and DevOps practices.
+  Software Developer with 1+ years of experience building scalable solutions. Passionate about cloud-native architectures and clean code practices. Focused on delivering efficient systems using modern technologies like React, Nextjs, Typescript, Go, Node.js, and AWS services. Currently expanding expertise in distributed systems and DevOps practices.
 </p>
 
 ## 🛠️ Tech Stack
