@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://i.ibb.co/HdB0kKw/banner-1.png" alt="Banner" style="width: 100%; max-width: 1200px;" />
-</div>
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Lionel+👋;Full-stack+Developer;Cloud+Enthusiast;Clean+Code+Advocate" alt="Typing SVG" />
