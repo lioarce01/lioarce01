@@ -22,7 +22,7 @@
 ## 🚀 About Me
 
 <p align="center">
-  Software Developer with 1+ years of experience building scalable solutions. Passionate about cloud-native architectures and clean code practices. Focused on delivering efficient systems using modern technologies like React, Nextjs, Typescript, Go, Node.js, and AWS services.
+  Fullstack Developer with 1+ years of experience building scalable solutions. Passionate about cloud-native architectures and clean code practices. Focused on delivering efficient systems using modern technologies like React, Nextjs, Typescript, Go, Node.js, and AWS services.
 </p>
 
 ## 🛠️ Tech Stack
