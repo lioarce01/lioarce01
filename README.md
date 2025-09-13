@@ -1,8 +1,21 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Lionel+👋;AI+Software+Developer;Building+Intelligent+Solutions" alt="Typing SVG" />
-  </a>
-</h1>
+# 🚀 About Me
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+
+</br>
+
+<p align="center">
+  Software Developer passionate about building intelligent and scalable solutions. Experienced in designing end-to-end systems. Currently focused on developing cutting-edge AI software solutions that bridge the gap between artificial intelligence and real-world applications.
+</p>
+
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🚀-Currently%20Working%20on%20AI%20Software%20Solutions-FF6B6B?style=for-the-badge&labelColor=FF6B6B&color=4ECDC4" />
+</div>
+
+</br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lionel-arce/" target="_blank">
@@ -15,22 +28,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🚀-Currently%20Working%20on%20AI%20Software%20Solutions-FF6B6B?style=for-the-badge&labelColor=FF6B6B&color=4ECDC4" />
-</div>
-
-## 🚀 About Me
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
-
-<p align="center">
-  Software Developer passionate about building intelligent and scalable solutions. Experienced in designing end-to-end systems. Currently focused on developing cutting-edge AI software solutions that bridge the gap between artificial intelligence and real-world applications.
-</p>
 
 ---
 
