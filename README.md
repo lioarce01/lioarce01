@@ -7,7 +7,7 @@
 </br>
 
 <p align="center">
-  Software Developer passionate about building intelligent and scalable solutions. Experienced in designing end-to-end systems. Currently focused on developing cutting-edge AI software solutions that bridge the gap between artificial intelligence and real-world applications.
+  SWE passionate about building intelligent and scalable solutions. Experienced in designing end-to-end systems. Currently focused on developing cutting-edge AI software solutions that bridge the gap between artificial intelligence and real-world applications.
 </p>
 
 
