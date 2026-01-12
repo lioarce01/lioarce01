@@ -1,11 +1,5 @@
 # 🚀 About Me
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
-
-</br>
-
 <p align="center">
   SWE passionate about building intelligent and scalable solutions. Experienced in designing end-to-end systems. Currently focused on developing cutting-edge AI software solutions that bridge the gap between artificial intelligence and real-world applications.
 </p>
