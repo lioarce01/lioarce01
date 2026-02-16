@@ -1,12 +1,15 @@
 # 🚀 About Me
 
 <p align="center">
-  SWE passionate about building intelligent and scalable solutions. Experienced in designing end-to-end systems. Currently focused on developing cutting-edge AI software solutions that bridge the gap between artificial intelligence and real-world applications.
+  Software Engineer & ML/AI Researcher passionate about building intelligent, scalable, and production-grade systems. Experienced in designing end-to-end platforms: from distributed backend architectures and cloud-native infrastructure to ML pipelines, model training, fine-tuning, evaluation, and deployment. Focused on bridging rigorous software engineering with applied AI research.
 </p>
 
+<p align="center">
+  Strong hands-on experience in ML training pipelines, LLM fine-tuning, agent orchestration, and AI system design — combined with solid foundations in backend, cloud, and full-stack engineering.
+</p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🚀-Currently%20Working%20on%20AI%20Software%20Solutions-FF6B6B?style=for-the-badge&labelColor=FF6B6B&color=4ECDC4" />
+  <img src="https://img.shields.io/badge/🚀-Building%20Scalable%20Software%20%2B%20AI%20Systems-FF6B6B?style=for-the-badge&labelColor=FF6B6B&color=4ECDC4" />
 </div>
 
 </br>
@@ -28,6 +31,7 @@
 ## 🛠️ Tech Stack
 
 ### **🐍 Programming Languages**
+
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -36,6 +40,7 @@
 </div>
 
 ### **🤖 AI & Machine Learning**
+
 <div align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -47,6 +52,7 @@
 </div>
 
 ### **⚡ Backend**
+
 <div align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -55,6 +61,7 @@
 </div>
 
 ### **🎨 Frontend Development**
+
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -64,6 +71,7 @@
 </div>
 
 ### **🗄️ Databases**
+
 <div align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -72,6 +80,7 @@
 </div>
 
 ### **☁️ Cloud & DevOps**
+
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
@@ -83,6 +92,7 @@
 </div>
 
 ### **🔧 Development Tools**
+
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
