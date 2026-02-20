@@ -1,16 +1,13 @@
 # 🚀 About Me
 
 <p align="center">
-  Software Engineer & ML/AI Researcher passionate about building intelligent, scalable, and production-grade systems. Experienced in designing end-to-end platforms: from distributed backend architectures and cloud-native infrastructure to ML pipelines, model training, fine-tuning, evaluation, and deployment. Focused on bridging rigorous software engineering with applied AI research.
+  <b>Senior Research Engineer (AI Systems)</b> building intelligent, scalable, and production-grade software.
+  I work at the intersection of applied AI research and software engineering, designing agent-based systems, AI platforms, and robust backend architectures.
 </p>
 
 <p align="center">
-  Strong hands-on experience in ML training pipelines, LLM fine-tuning, agent orchestration, and AI system design — combined with solid foundations in backend, cloud, and full-stack engineering.
+  My focus is on turning cutting-edge ideas into reliable real-world systems: from agent orchestration and context-aware architectures to cloud-native infrastructure and distributed platforms.
 </p>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🚀-Building%20Scalable%20Software%20%2B%20AI%20Systems-FF6B6B?style=for-the-badge&labelColor=FF6B6B&color=4ECDC4" />
-</div>
 
 </br>
 
