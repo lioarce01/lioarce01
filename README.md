@@ -1,7 +1,7 @@
 # 🚀 About Me
 
 <p align="center">
-  <b>Senior Research Engineer (AI Systems)</b> building intelligent, scalable, and production-grade software.
+  <b>Senior Research Engineer </b> building intelligent, scalable, and production-grade software.
   I work at the intersection of applied AI research and software engineering, designing agent-based systems, AI platforms, and robust backend architectures.
 </p>
 
