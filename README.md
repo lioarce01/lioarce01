@@ -59,11 +59,6 @@ Platform for versioning, testing, and deploying prompts across environments. Git
 
 ---
 
-**[clai](https://github.com/lioarce01/clai)** `Go`
-Terminal LLM chat client. Real-time streaming with live Markdown rendering, syntax highlighting for 100+ languages, multi-session management, and an in-terminal settings panel. OpenAI-compatible — works with Groq, OpenRouter, Ollama, and more. Zero runtime dependencies, ~30ms cold start, ~15MB static binary.
-
----
-
 **[rl-framework-qwen3.5-2B](https://github.com/lioarce01/rl-framework-qwen3.5-2B)** `Python`
 Full SFT + GRPO reinforcement learning pipeline for reasoning on Qwen3.5-2B. QLoRA 4-bit quantization fits on 12GB VRAM. Self-improvement loop: generates reasoning traces, filters top performers, augments the dataset, and repeats. Evaluated on math and code benchmarks with structured `<think>` chain-of-thought.
 
