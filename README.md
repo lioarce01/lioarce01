@@ -1,135 +1,136 @@
-# 🚀 About Me
-
-<p align="center">
-  <b>Research Engineer </b> building intelligent, scalable, and production-grade software.
-  I work at the intersection of applied AI research and software engineering, designing agent-based systems, AI platforms, and robust backend architectures.
-</p>
-
-<p align="center">
-  My focus is on turning cutting-edge ideas into reliable real-world systems: from agent orchestration and context-aware architectures to cloud-native infrastructure and distributed platforms.
-</p>
-
-</br>
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/lionel-arce/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/lioarce01" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:lioarce1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+
+Engineer working at the edge of AI systems, backend infrastructure, and applied research.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lionel-arce/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lioarce01)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lioarce1@gmail.com)
+
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## Working on
 
-### **🐍 Programming Languages**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
-
-### **🤖 AI & Machine Learning**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic%20MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
-</div>
-
-### **⚡ Backend**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-</div>
-
-### **🎨 Frontend Development**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-</div>
-
-### **🗄️ Databases**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
-</div>
-
-### **☁️ Cloud & DevOps**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</div>
-
-### **🔧 Development Tools**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</div>
+**[chainforge](https://github.com/lioarce01/chainforge)** `Go`
+Provider-agnostic AI agent framework with zero external dependencies. Sequential, parallel, and router-based orchestration. MCP (HTTP + stdio), vector memory (Qdrant, PostgreSQL, Redis), tool memoization, Prometheus metrics, and OpenTelemetry tracing. Swap Anthropic, OpenAI, Ollama, or Gemini with one line.
 
 ---
 
-## 📊 GitHub Analytics
+**[etip](https://github.com/lioarce01/etip)** `Python · TypeScript`
+Enterprise Talent Intelligence Platform. Ingests GitHub and Jira activity, infers skills against the ESCO taxonomy, and ranks candidates via vector similarity + cross-encoder reranking + LLM explanations. Multi-tenant with PostgreSQL Row-Level Security, pgvector, Celery workers, and Qdrant.
+
+---
+
+**[websearch-ng](https://github.com/lioarce01/websearch-ng)** `Python · TypeScript`
+Self-hosted AI search engine. Parallel web search, Jina extraction, semantic reranking, and cited answers streamed token-by-token over SSE. Two modes: fast search (3 queries) and deep research (7 queries + gap analysis + structured report). Multi-provider via LiteLLM.
+
+---
+
+**[gpt-sota-opt](https://github.com/lioarce01/gpt-sota-opt)** `Python`
+Production GPT implementation with GQA (25–30% faster inference, 66% smaller KV cache), FlashAttention-2, RMSNorm, SwiGLU, and RoPE. Scales from 10M to 500M parameters. 6,000–7,000 tokens/sec on RTX 5070 with BF16 and gradient checkpointing.
+
+---
+
+**[turboquant-implementation](https://github.com/lioarce01/turboquant-implementation)** `Python`
+TurboQuant KV cache compression — 4× size reduction with near-zero quality loss. RHT + Lloyd-Max quantization encoded at 3–4 bits. Custom Triton GPU kernels: ~9× faster quantization, ~5× faster dequantization. Validated on Llama-3.2-3B: +2.2% perplexity, 100% needle accuracy.
+
+---
+
+**[marl-drone-swarm-pretraining](https://github.com/lioarce01/marl-drone-swarm-pretraining)** `Python`
+Multi-agent reinforcement learning for cooperative quadcopter swarm control. MAPPO with centralized critic and shared actor. Curriculum learning from 3 drones on 10×10 grids to 6 drones on 20×20. Physics simulation via PyBullet, PettingZoo multi-agent wrapper.
+
+---
+
+**[autonomous-ml-researcher](https://github.com/lioarce01/autonomous-ml-researcher)** `Python`
+Agentic framework for autonomous ML research. Agent reads a program file, forms hypotheses, modifies training code (one change per experiment for strict causality), runs 5-minute cycles, logs to SQLite, and regenerates its own memory for the next iteration. Agent-agnostic — works with any CLI tool.
+
+---
+
+**[soc-multi-agent-system](https://github.com/lioarce01/soc-multi-agent-system)** `Python`
+AI-driven SOC orchestration. Six specialized agents — supervisor, context enrichment, behavioral analysis, investigation, response, and communication — coordinate to investigate security alerts, map to MITRE ATT&CK, and generate remediation reports. Built with LangGraph and MCP.
+
+---
+
+**[prompt-version-hub](https://github.com/lioarce01/prompt-version-hub)** `TypeScript`
+Platform for versioning, testing, and deploying prompts across environments. Git-style diffs, one-click rollback, A/B testing with deterministic user-segment routing, AI-powered test case generation, and an analytics dashboard tracking usage, latency, and cost. Role-based access control with public/private visibility.
+
+---
+
+**[clai](https://github.com/lioarce01/clai)** `Go`
+Terminal LLM chat client. Real-time streaming with live Markdown rendering, syntax highlighting for 100+ languages, multi-session management, and an in-terminal settings panel. OpenAI-compatible — works with Groq, OpenRouter, Ollama, and more. Zero runtime dependencies, ~30ms cold start, ~15MB static binary.
+
+---
+
+**[rl-framework-qwen3.5-2B](https://github.com/lioarce01/rl-framework-qwen3.5-2B)** `Python`
+Full SFT + GRPO reinforcement learning pipeline for reasoning on Qwen3.5-2B. QLoRA 4-bit quantization fits on 12GB VRAM. Self-improvement loop: generates reasoning traces, filters top performers, augments the dataset, and repeats. Evaluated on math and code benchmarks with structured `<think>` chain-of-thought.
+
+---
+
+**[autonomous-sae-researcher](https://github.com/lioarce01/autonomous-sae-researcher)** `Python`
+Autonomous hyperparameter search for Sparse Autoencoders on Qwen3.5-0.8B activations. Agent forms hypotheses, runs training cycles, logs to SQLite, and generates its own leaderboard and state summary for the next iteration. Best result: 0.9956 explained variance at 12.5% feature activation.
+
+---
+
+**[data-curation-engine](https://github.com/lioarce01/data-curation-engine)** `Python`
+LLM-powered pipeline that converts raw documents (PDF, DOCX, HTML, Markdown, source code) into training-ready JSONL datasets. Six-stage pipeline: parse → chunk → generate instructions → rule filter → LLM judge (position-swap bias detection) → output. Multi-provider via LiteLLM. Resumable.
+
+---
+
+## Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Triton](https://img.shields.io/badge/Triton-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+
+**Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+**Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+
+---
+
+## GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lioarce01&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=lioarce01&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lioarce01&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lioarce01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=5" />
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/lionel-arce/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/lioarce01" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:lioarce1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
 </div>
 
 <div align="center">
