@@ -39,7 +39,7 @@ TurboQuant KV cache compression — 4× size reduction with near-zero quality lo
 
 ---
 
-**[marl-drone-swarm-pretraining](https://github.com/lioarce01/marl-drone-swarm-pretraining)** `Python`
+**[marl-drone-swarm-rl](https://github.com/lioarce01/marl-drone-swarm-rl)** `Python`
 Multi-agent reinforcement learning for cooperative quadcopter swarm control. MAPPO with centralized critic and shared actor. Curriculum learning from 3 drones on 10×10 grids to 6 drones on 20×20. Physics simulation via PyBullet, PettingZoo multi-agent wrapper.
 
 ---
