@@ -5,7 +5,7 @@ Engineer working at the edge of AI systems, backend infrastructure, and applied 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lionel-arce/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lioarce01)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lzvxck)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lioarce1@gmail.com)
 
 </div>
@@ -14,62 +14,62 @@ Engineer working at the edge of AI systems, backend infrastructure, and applied 
 
 ## Working on
 
-**[chainforge](https://github.com/lioarce01/chainforge)** `Go`
+**[chainforge](https://github.com/lzvxck/chainforge)** `Go`
 Provider-agnostic AI agent framework with zero external dependencies. Sequential, parallel, and router-based orchestration. MCP (HTTP + stdio), vector memory (Qdrant, PostgreSQL, Redis), tool memoization, Prometheus metrics, and OpenTelemetry tracing. Swap Anthropic, OpenAI, Ollama, or Gemini with one line.
 
 ---
 
-**[etip](https://github.com/lioarce01/etip)** `Python · TypeScript`
+**[etip](https://github.com/lzvxck/etip)** `Python · TypeScript`
 Enterprise Talent Intelligence Platform. Ingests GitHub and Jira activity, infers skills against the ESCO taxonomy, and ranks candidates via vector similarity + cross-encoder reranking + LLM explanations. Multi-tenant with PostgreSQL Row-Level Security, pgvector, Celery workers, and Qdrant.
 
 ---
 
-**[websearch-ng](https://github.com/lioarce01/websearch-ng)** `Python · TypeScript`
+**[websearch-ng](https://github.com/lzvxck/websearch-ng)** `Python · TypeScript`
 Self-hosted AI search engine. Parallel web search, Jina extraction, semantic reranking, and cited answers streamed token-by-token over SSE. Two modes: fast search (3 queries) and deep research (7 queries + gap analysis + structured report). Multi-provider via LiteLLM.
 
 ---
 
-**[gpt-sota-opt](https://github.com/lioarce01/gpt-sota-opt)** `Python`
+**[gpt-sota-opt](https://github.com/lzvxck/gpt-sota-opt)** `Python`
 Production GPT implementation with GQA (25–30% faster inference, 66% smaller KV cache), FlashAttention-2, RMSNorm, SwiGLU, and RoPE. Scales from 10M to 500M parameters. 6,000–7,000 tokens/sec on RTX 5070 with BF16 and gradient checkpointing.
 
 ---
 
-**[turboquant-implementation](https://github.com/lioarce01/turboquant-implementation)** `Python`
+**[turboquant-implementation](https://github.com/lzvxck/turboquant-implementation)** `Python`
 TurboQuant KV cache compression — 4× size reduction with near-zero quality loss. RHT + Lloyd-Max quantization encoded at 3–4 bits. Custom Triton GPU kernels: ~9× faster quantization, ~5× faster dequantization. Validated on Llama-3.2-3B: +2.2% perplexity, 100% needle accuracy.
 
 ---
 
-**[marl-drone-swarm-rl](https://github.com/lioarce01/marl-drone-swarm-rl)** `Python`
+**[marl-drone-swarm-rl](https://github.com/lzvxck/marl-drone-swarm-rl)** `Python`
 Multi-agent reinforcement learning for cooperative quadcopter swarm control. MAPPO with centralized critic and shared actor. Curriculum learning from 3 drones on 10×10 grids to 6 drones on 20×20. Physics simulation via PyBullet, PettingZoo multi-agent wrapper.
 
 ---
 
-**[autonomous-ml-researcher](https://github.com/lioarce01/autonomous-ml-researcher)** `Python`
+**[autonomous-ml-researcher](https://github.com/lzvxck/autonomous-ml-researcher)** `Python`
 Agentic framework for autonomous ML research. Agent reads a program file, forms hypotheses, modifies training code (one change per experiment for strict causality), runs 5-minute cycles, logs to SQLite, and regenerates its own memory for the next iteration. Agent-agnostic — works with any CLI tool.
 
 ---
 
-**[soc-multi-agent-system](https://github.com/lioarce01/soc-multi-agent-system)** `Python`
+**[soc-multi-agent-system](https://github.com/lzvxck/soc-multi-agent-system)** `Python`
 AI-driven SOC orchestration. Six specialized agents — supervisor, context enrichment, behavioral analysis, investigation, response, and communication — coordinate to investigate security alerts, map to MITRE ATT&CK, and generate remediation reports. Built with LangGraph and MCP.
 
 ---
 
-**[prompt-version-hub](https://github.com/lioarce01/prompt-version-hub)** `TypeScript`
+**[prompt-version-hub](https://github.com/lzvxck/prompt-version-hub)** `TypeScript`
 Platform for versioning, testing, and deploying prompts across environments. Git-style diffs, one-click rollback, A/B testing with deterministic user-segment routing, AI-powered test case generation, and an analytics dashboard tracking usage, latency, and cost. Role-based access control with public/private visibility.
 
 ---
 
-**[rl-framework-qwen3.5-2B](https://github.com/lioarce01/rl-framework-qwen3.5-2B)** `Python`
+**[rl-framework-qwen3.5-2B](https://github.com/lzvxck/rl-framework-qwen3.5-2B)** `Python`
 Full SFT + GRPO reinforcement learning pipeline for reasoning on Qwen3.5-2B. QLoRA 4-bit quantization fits on 12GB VRAM. Self-improvement loop: generates reasoning traces, filters top performers, augments the dataset, and repeats. Evaluated on math and code benchmarks with structured `<think>` chain-of-thought.
 
 ---
 
-**[autonomous-sae-researcher](https://github.com/lioarce01/autonomous-sae-researcher)** `Python`
+**[autonomous-sae-researcher](https://github.com/lzvxck/autonomous-sae-researcher)** `Python`
 Autonomous hyperparameter search for Sparse Autoencoders on Qwen3.5-0.8B activations. Agent forms hypotheses, runs training cycles, logs to SQLite, and generates its own leaderboard and state summary for the next iteration. Best result: 0.9956 explained variance at 12.5% feature activation.
 
 ---
 
-**[data-curation-engine](https://github.com/lioarce01/data-curation-engine)** `Python`
+**[data-curation-engine](https://github.com/lzvxck/data-curation-engine)** `Python`
 LLM-powered pipeline that converts raw documents (PDF, DOCX, HTML, Markdown, source code) into training-ready JSONL datasets. Six-stage pipeline: parse → chunk → generate instructions → rule filter → LLM judge (position-swap bias detection) → output. Multi-provider via LiteLLM. Resumable.
 
 ---
