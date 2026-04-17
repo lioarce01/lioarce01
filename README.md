@@ -121,13 +121,13 @@ LLM-powered pipeline that converts raw documents (PDF, DOCX, HTML, Markdown, sou
 ## GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=lioarce01&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=lzvxck&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lioarce01&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lzvxck&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lioarce01&style=flat-square&color=38BDF8" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=lzvxck&style=flat-square&color=38BDF8" alt="Profile Views"/>
 </div>
