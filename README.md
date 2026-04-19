@@ -1,6 +1,6 @@
 <div align="center">
 
-Engineer working at the edge of AI systems, backend infrastructure, and applied research
+Engineer working in AI systems, backend infrastructure, and applied research
 
 <br/>
 
